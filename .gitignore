@@ -1,0 +1,19 @@
+# MATLAB generated files
+*.asv
+*.m~
+slprj/
+codegen/
+*.mex*
+*.mat
+*.fig
+*.mlx.autosave
+
+# Generated output images/data (keep folder README)
+results/*.png
+results/*.csv
+results/*.fig
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
